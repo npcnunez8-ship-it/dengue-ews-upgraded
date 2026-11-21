@@ -1,0 +1,61 @@
+date,city,ward_id,pred,lo,hi,tier
+2025-08-04,Chattogram,CCC_Ward_03,36.96,0.0,47.57,Critical
+2025-08-04,Dhaka South,DSCC_Ward_04,36.47,0.0,47.86,Critical
+2025-08-04,Dhaka North,DNCC_Ward_12,35.93,0.0,46.55,High
+2025-08-04,Chattogram,CCC_Ward_01,32.09,0.0,46.78,High
+2025-08-04,Dhaka South,DSCC_Ward_06,30.51,16.77,44.5,High
+2025-08-04,Dhaka South,DSCC_Ward_19,30.07,0.0,42.06,High
+2025-08-04,Dhaka North,DNCC_Ward_09,29.83,16.28,41.57,High
+2025-08-04,Gazipur,GCC_Ward_03,29.62,15.56,42.86,High
+2025-08-04,Narayanganj,NCC_Ward_05,29.59,0.0,38.82,High
+2025-08-04,Dhaka North,DNCC_Ward_18,29.26,0.0,42.71,High
+2025-08-04,Dhaka North,DNCC_Ward_19,29.2,0.0,40.65,High
+2025-08-04,Dhaka South,DSCC_Ward_12,29.1,0.0,40.06,High
+2025-08-04,Gazipur,GCC_Ward_02,28.99,0.0,41.85,High
+2025-08-04,Dhaka North,DNCC_Ward_01,27.7,0.0,37.16,High
+2025-08-04,Dhaka South,DSCC_Ward_10,27.6,0.0,42.4,High
+2025-08-04,Dhaka South,DSCC_Ward_13,26.95,0.0,31.85,High
+2025-08-04,Dhaka South,DSCC_Ward_03,26.61,0.0,36.86,High
+2025-08-04,Gazipur,GCC_Ward_05,26.54,0.0,36.01,High
+2025-08-04,Dhaka North,DNCC_Ward_10,26.3,13.21,34.64,High
+2025-08-04,Dhaka South,DSCC_Ward_08,25.74,15.36,31.83,High
+2025-08-04,Narayanganj,NCC_Ward_01,25.62,15.27,33.33,High
+2025-08-04,Dhaka South,DSCC_Ward_18,25.57,0.0,36.8,High
+2025-08-04,Chattogram,CCC_Ward_07,25.43,13.92,37.87,High
+2025-08-04,Dhaka North,DNCC_Ward_05,25.17,0.0,31.8,High
+2025-08-04,Dhaka South,DSCC_Ward_20,24.88,0.0,36.14,High
+2025-08-04,Gazipur,GCC_Ward_01,24.84,13.5,30.53,High
+2025-08-04,Gazipur,GCC_Ward_04,23.54,0.0,30.32,High
+2025-08-04,Dhaka North,DNCC_Ward_15,23.09,0.0,36.62,High
+2025-08-04,Dhaka North,DNCC_Ward_03,22.81,13.65,34.31,High
+2025-08-04,Dhaka North,DNCC_Ward_11,22.79,0.0,31.21,High
+2025-08-04,Chattogram,CCC_Ward_06,21.57,13.96,31.41,Medium
+2025-08-04,Dhaka North,DNCC_Ward_16,21.52,0.0,30.62,Medium
+2025-08-04,Dhaka South,DSCC_Ward_05,21.49,0.0,36.57,Medium
+2025-08-04,Dhaka North,DNCC_Ward_02,21.23,12.66,30.07,Medium
+2025-08-04,Chattogram,CCC_Ward_04,20.94,13.14,28.89,Medium
+2025-08-04,Dhaka South,DSCC_Ward_11,20.69,0.0,32.56,Medium
+2025-08-04,Chattogram,CCC_Ward_08,20.32,0.0,30.3,Medium
+2025-08-04,Dhaka North,DNCC_Ward_07,19.85,0.0,29.82,Medium
+2025-08-04,Narayanganj,NCC_Ward_03,19.43,12.52,28.92,Medium
+2025-08-04,Chattogram,CCC_Ward_10,18.83,0.0,28.6,Medium
+2025-08-04,Narayanganj,NCC_Ward_04,18.65,11.77,27.94,Medium
+2025-08-04,Dhaka South,DSCC_Ward_02,18.52,0.0,28.4,Medium
+2025-08-04,Dhaka North,DNCC_Ward_17,18.3,0.0,27.58,Medium
+2025-08-04,Dhaka South,DSCC_Ward_09,18.28,0.0,28.52,Medium
+2025-08-04,Dhaka South,DSCC_Ward_01,18.24,0.0,29.69,Medium
+2025-08-04,Dhaka South,DSCC_Ward_15,18.22,0.0,29.61,Medium
+2025-08-04,Dhaka North,DNCC_Ward_14,18.08,0.0,28.57,Medium
+2025-08-04,Dhaka North,DNCC_Ward_04,17.73,0.0,28.71,Medium
+2025-08-04,Chattogram,CCC_Ward_02,17.23,11.41,28.08,Medium
+2025-08-04,Dhaka North,DNCC_Ward_06,17.22,12.81,28.62,Medium
+2025-08-04,Dhaka North,DNCC_Ward_08,17.15,0.0,27.76,Medium
+2025-08-04,Dhaka South,DSCC_Ward_16,17.03,0.0,28.94,Medium
+2025-08-04,Narayanganj,NCC_Ward_02,16.58,0.0,29.1,Medium
+2025-08-04,Dhaka South,DSCC_Ward_17,16.22,0.0,24.89,Medium
+2025-08-04,Dhaka North,DNCC_Ward_20,15.62,11.81,26.68,Medium
+2025-08-04,Dhaka South,DSCC_Ward_07,15.18,13.17,28.0,Medium
+2025-08-04,Dhaka North,DNCC_Ward_13,15.03,13.02,26.55,Medium
+2025-08-04,Chattogram,CCC_Ward_05,14.84,11.39,25.68,Medium
+2025-08-04,Chattogram,CCC_Ward_09,14.07,0.0,26.66,Medium
+2025-08-04,Dhaka South,DSCC_Ward_14,12.2,0.0,26.74,Medium

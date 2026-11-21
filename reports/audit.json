@@ -1,0 +1,54 @@
+{
+  "corr_cases_vs_past_rain_lag": {
+    "0": 0.5532071937906671,
+    "1": 0.613415481279805,
+    "2": 0.6970704315959072,
+    "3": 0.7786186791945977,
+    "4": 0.7072570148806168,
+    "5": 0.5620543017481519,
+    "6": 0.5152373067814939
+  },
+  "corr_cases_vs_future_rain_lead": {
+    "1": 0.49373393689397604,
+    "2": 0.4639525563743031,
+    "3": 0.3710021180959025,
+    "4": 0.29280516580614385
+  },
+  "peak_past_lag_weeks": 3,
+  "placebo_shuffled_target_val": {
+    "MAE": 9.875979666830226,
+    "RMSE": 13.05368163763697,
+    "R2": 0.03818860915924316
+  },
+  "static_plus_season_only_val": {
+    "MAE": 2.5556636682360985,
+    "RMSE": 5.535031249416417,
+    "R2": 0.8270725102454916
+  },
+  "full_weather_model_val": {
+    "MAE": 1.8253689962852038,
+    "RMSE": 3.8041594891542485,
+    "R2": 0.9183151876355559
+  },
+  "ward_week_climatology_val": {
+    "MAE": 2.5899935649935646,
+    "RMSE": 5.634941329621638,
+    "R2": 0.8207733116946628
+  },
+  "val_residual_lag1_autocorr_mean": 0.5815686132773895,
+  "val_R2_flag": "R2 above 0.9 is unusually high for real surveillance data -> treat as synthetic-data upper bound",
+  "horizon_strategy_val_mean_MAE": {
+    "derived (window/3)": 1.101,
+    "direct (per-horizon)": 1.0063,
+    "pooled (+horizon feature)": 1.0081
+  },
+  "horizon_strategy_selected": "direct (per-horizon)",
+  "hpo": {
+    "default_val_MAE": 1.8253689962852038,
+    "best_val_MAE": 1.8194928718580252,
+    "best_name": "rs9",
+    "rel_gain": 0.003219143328903369,
+    "adopt_threshold": 0.02,
+    "adopted": false
+  }
+}

@@ -1,0 +1,57 @@
+[
+  {
+    "ward_id": "DNCC_Ward_01",
+    "date": "2025-08-04",
+    "window": "Weeks 2-4 ahead (total)",
+    "predicted_cases": 27.7,
+    "interval_80": [
+      0.0,
+      37.2
+    ],
+    "risk_tier": "High"
+  },
+  {
+    "ward_id": "DSCC_Ward_04",
+    "date": "2025-08-04",
+    "window": "Weeks 2-4 ahead (total)",
+    "predicted_cases": 36.47,
+    "interval_80": [
+      0.0,
+      47.9
+    ],
+    "risk_tier": "Critical"
+  },
+  {
+    "ward_id": "CCC_Ward_03",
+    "date": "2025-08-04",
+    "window": "Weeks 2-4 ahead (total)",
+    "predicted_cases": 36.96,
+    "interval_80": [
+      0.0,
+      47.6
+    ],
+    "risk_tier": "Critical"
+  },
+  {
+    "ward_id": "GCC_Ward_01",
+    "date": "2025-08-04",
+    "window": "Weeks 2-4 ahead (total)",
+    "predicted_cases": 24.84,
+    "interval_80": [
+      13.5,
+      30.5
+    ],
+    "risk_tier": "High"
+  },
+  {
+    "ward_id": "NCC_Ward_02",
+    "date": "2025-08-04",
+    "window": "Weeks 2-4 ahead (total)",
+    "predicted_cases": 16.58,
+    "interval_80": [
+      0.0,
+      29.1
+    ],
+    "risk_tier": "Medium"
+  }
+]
